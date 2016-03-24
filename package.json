@@ -1,0 +1,24 @@
+{
+  "name": "durandal-intro",
+  "version": "1.0.0",
+  "description": "![Durandal](http://durandaljs.com/media/DURANDAL-FINAL-HI-RES-LOGO-HOR-WEB.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbl212/durandalIntro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbl212/durandalIntro/issues"
+  },
+  "homepage": "https://github.com/kbl212/durandalIntro#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4"
+  }
+}
